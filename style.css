@@ -105,7 +105,8 @@ h1 {
 }
 
 .logo1 {
-
+  display: flex;
+  position: absolute;
   margin-top: -2px;
   margin-left: 3px;
 
@@ -116,7 +117,7 @@ h1 {
   display: flex;
   position: absolute;
   margin-left: -3px;
-
+ padding-right: -100px;
 }
 
 .menu {
