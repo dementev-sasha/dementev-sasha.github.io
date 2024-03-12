@@ -121,7 +121,7 @@ h1 {
 }
 
 .menu {
-  height: px;
+  height: 30px;
   gap: 60px;
   flex: 1;
   display: flex;
