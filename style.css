@@ -6,7 +6,6 @@
 .page {
   gap: 57px;
   width: 1000px;
-  height: 1179px;
   display: flex;
   flex-direction: column;
 }
@@ -82,7 +81,7 @@ margin-bottom: -10px;
 
 .header {
   width: 1000px;
-  height: 500px;
+  gap: 214px;
   display: flex;
   position: relative;
   flex-direction: column;
